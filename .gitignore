@@ -1,0 +1,27 @@
+# XAMPP veritabanı dosyaları
+/phpmyadmin/
+/mysql/
+
+# Vendor klasörü
+/vendor/
+
+# Yapılandırma dosyaları
+/config/db_config.php
+
+# Log dosyaları
+/logs/*
+!logs/.gitkeep
+
+# Yüklenen dosyalar
+/uploads/*
+!uploads/.gitkeep
+
+# VS Code klasörü
+.vs/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Composer dosyaları
+composer.phar 

@@ -1,0 +1,535 @@
+2024-12-29 00:58:00 - Bulunan email sayısı: 8
+2024-12-29 00:58:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:58:15 - Bulunan email sayısı: 8
+2024-12-29 00:58:15 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:58:29 - Bulunan email sayısı: 8
+2024-12-29 00:58:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:58:43 - Bulunan email sayısı: 8
+2024-12-29 00:58:44 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:58:58 - Bulunan email sayısı: 8
+2024-12-29 00:58:58 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:59:12 - Bulunan email sayısı: 8
+2024-12-29 00:59:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:59:26 - Bulunan email sayısı: 8
+2024-12-29 00:59:27 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:59:41 - Bulunan email sayısı: 8
+2024-12-29 00:59:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 00:59:55 - Bulunan email sayısı: 8
+2024-12-29 00:59:55 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:00:10 - Bulunan email sayısı: 8
+2024-12-29 01:00:10 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:00:24 - Bulunan email sayısı: 8
+2024-12-29 01:00:24 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:00:38 - Bulunan email sayısı: 8
+2024-12-29 01:00:38 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:00:52 - Bulunan email sayısı: 8
+2024-12-29 01:00:53 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:01:06 - Bulunan email sayısı: 8
+2024-12-29 01:01:07 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:01:21 - Bulunan email sayısı: 8
+2024-12-29 01:01:21 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:01:35 - Bulunan email sayısı: 8
+2024-12-29 01:01:35 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:01:49 - Bulunan email sayısı: 8
+2024-12-29 01:01:49 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:02:03 - Bulunan email sayısı: 8
+2024-12-29 01:02:04 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:02:18 - Bulunan email sayısı: 8
+2024-12-29 01:02:18 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:02:32 - Bulunan email sayısı: 8
+2024-12-29 01:02:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:02:46 - Bulunan email sayısı: 8
+2024-12-29 01:02:46 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:03:00 - Bulunan email sayısı: 8
+2024-12-29 01:03:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:03:14 - Bulunan email sayısı: 8
+2024-12-29 01:03:15 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:03:29 - Bulunan email sayısı: 8
+2024-12-29 01:03:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:03:43 - Bulunan email sayısı: 8
+2024-12-29 01:03:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:03:57 - Bulunan email sayısı: 8
+2024-12-29 01:03:57 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:04:11 - Bulunan email sayısı: 8
+2024-12-29 01:04:11 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:04:25 - Bulunan email sayısı: 8
+2024-12-29 01:04:25 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:04:40 - Bulunan email sayısı: 8
+2024-12-29 01:04:40 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:04:54 - Bulunan email sayısı: 8
+2024-12-29 01:04:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:05:09 - Bulunan email sayısı: 8
+2024-12-29 01:05:09 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:05:23 - Bulunan email sayısı: 8
+2024-12-29 01:05:23 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:05:37 - Bulunan email sayısı: 8
+2024-12-29 01:05:37 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:05:51 - Bulunan email sayısı: 8
+2024-12-29 01:05:52 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:06:06 - Bulunan email sayısı: 8
+2024-12-29 01:06:06 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:06:20 - Bulunan email sayısı: 8
+2024-12-29 01:06:20 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:06:34 - Bulunan email sayısı: 8
+2024-12-29 01:06:35 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:06:49 - Bulunan email sayısı: 8
+2024-12-29 01:06:49 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:07:03 - Bulunan email sayısı: 8
+2024-12-29 01:07:03 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:07:17 - Bulunan email sayısı: 8
+2024-12-29 01:07:17 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:07:32 - Bulunan email sayısı: 8
+2024-12-29 01:07:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:07:46 - Bulunan email sayısı: 8
+2024-12-29 01:07:46 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:08:00 - Bulunan email sayısı: 8
+2024-12-29 01:08:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:08:14 - Bulunan email sayısı: 8
+2024-12-29 01:08:14 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:08:28 - Bulunan email sayısı: 8
+2024-12-29 01:08:28 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:08:42 - Bulunan email sayısı: 8
+2024-12-29 01:08:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:08:57 - Bulunan email sayısı: 8
+2024-12-29 01:08:57 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:09:11 - Bulunan email sayısı: 8
+2024-12-29 01:09:11 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:09:25 - Bulunan email sayısı: 8
+2024-12-29 01:09:25 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:09:39 - Bulunan email sayısı: 8
+2024-12-29 01:09:39 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:09:53 - Bulunan email sayısı: 8
+2024-12-29 01:09:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:10:07 - Bulunan email sayısı: 8
+2024-12-29 01:10:08 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:10:22 - Bulunan email sayısı: 8
+2024-12-29 01:10:22 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:10:36 - Bulunan email sayısı: 8
+2024-12-29 01:10:36 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:10:50 - Bulunan email sayısı: 8
+2024-12-29 01:10:50 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:11:04 - Bulunan email sayısı: 8
+2024-12-29 01:11:05 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:11:18 - Bulunan email sayısı: 8
+2024-12-29 01:11:19 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:11:32 - Bulunan email sayısı: 8
+2024-12-29 01:11:33 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:11:47 - Bulunan email sayısı: 8
+2024-12-29 01:11:47 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:12:01 - Bulunan email sayısı: 8
+2024-12-29 01:12:01 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:12:15 - Bulunan email sayısı: 8
+2024-12-29 01:12:15 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:12:29 - Bulunan email sayısı: 8
+2024-12-29 01:12:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:12:43 - Bulunan email sayısı: 8
+2024-12-29 01:12:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:12:57 - Bulunan email sayısı: 8
+2024-12-29 01:12:58 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:13:12 - Bulunan email sayısı: 8
+2024-12-29 01:13:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:13:26 - Bulunan email sayısı: 8
+2024-12-29 01:13:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:13:40 - Bulunan email sayısı: 8
+2024-12-29 01:13:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:13:54 - Bulunan email sayısı: 8
+2024-12-29 01:13:55 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:14:08 - Bulunan email sayısı: 8
+2024-12-29 01:14:09 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:14:23 - Bulunan email sayısı: 8
+2024-12-29 01:14:23 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:14:37 - Bulunan email sayısı: 8
+2024-12-29 01:14:37 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:14:51 - Bulunan email sayısı: 8
+2024-12-29 01:14:51 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:15:05 - Bulunan email sayısı: 8
+2024-12-29 01:15:06 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:15:20 - Bulunan email sayısı: 8
+2024-12-29 01:15:20 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:15:34 - Bulunan email sayısı: 8
+2024-12-29 01:15:34 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:15:48 - Bulunan email sayısı: 8
+2024-12-29 01:15:48 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:16:03 - Bulunan email sayısı: 8
+2024-12-29 01:16:03 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:16:17 - Bulunan email sayısı: 8
+2024-12-29 01:16:17 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:16:31 - Bulunan email sayısı: 8
+2024-12-29 01:16:31 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:16:45 - Bulunan email sayısı: 8
+2024-12-29 01:16:46 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:16:59 - Bulunan email sayısı: 8
+2024-12-29 01:17:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:17:14 - Bulunan email sayısı: 8
+2024-12-29 01:17:14 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:17:28 - Bulunan email sayısı: 8
+2024-12-29 01:17:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:17:42 - Bulunan email sayısı: 8
+2024-12-29 01:17:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:17:57 - Bulunan email sayısı: 8
+2024-12-29 01:17:57 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:18:11 - Bulunan email sayısı: 8
+2024-12-29 01:18:11 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:18:25 - Bulunan email sayısı: 8
+2024-12-29 01:18:25 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:18:39 - Bulunan email sayısı: 8
+2024-12-29 01:18:39 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:18:53 - Bulunan email sayısı: 8
+2024-12-29 01:18:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:19:07 - Bulunan email sayısı: 8
+2024-12-29 01:19:08 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:19:21 - Bulunan email sayısı: 8
+2024-12-29 01:19:22 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:19:36 - Bulunan email sayısı: 8
+2024-12-29 01:19:36 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:19:50 - Bulunan email sayısı: 8
+2024-12-29 01:19:50 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:20:04 - Bulunan email sayısı: 8
+2024-12-29 01:20:04 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:20:18 - Bulunan email sayısı: 8
+2024-12-29 01:20:18 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:20:32 - Bulunan email sayısı: 8
+2024-12-29 01:20:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:20:46 - Bulunan email sayısı: 8
+2024-12-29 01:20:47 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:21:01 - Bulunan email sayısı: 8
+2024-12-29 01:21:01 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:21:15 - Bulunan email sayısı: 8
+2024-12-29 01:21:15 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:21:29 - Bulunan email sayısı: 8
+2024-12-29 01:21:30 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:21:44 - Bulunan email sayısı: 8
+2024-12-29 01:21:44 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:21:58 - Bulunan email sayısı: 8
+2024-12-29 01:21:58 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:22:12 - Bulunan email sayısı: 8
+2024-12-29 01:22:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:22:26 - Bulunan email sayısı: 8
+2024-12-29 01:22:27 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:22:41 - Bulunan email sayısı: 8
+2024-12-29 01:22:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:22:55 - Bulunan email sayısı: 8
+2024-12-29 01:22:55 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:23:09 - Bulunan email sayısı: 8
+2024-12-29 01:23:09 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:23:23 - Bulunan email sayısı: 8
+2024-12-29 01:23:23 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:23:37 - Bulunan email sayısı: 8
+2024-12-29 01:23:37 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:23:51 - Bulunan email sayısı: 8
+2024-12-29 01:23:52 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:24:06 - Bulunan email sayısı: 8
+2024-12-29 01:24:06 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:24:20 - Bulunan email sayısı: 8
+2024-12-29 01:24:20 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:24:34 - Bulunan email sayısı: 8
+2024-12-29 01:24:34 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:24:48 - Bulunan email sayısı: 8
+2024-12-29 01:24:48 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:25:02 - Bulunan email sayısı: 8
+2024-12-29 01:25:03 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:25:17 - Bulunan email sayısı: 8
+2024-12-29 01:25:17 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:25:32 - Bulunan email sayısı: 8
+2024-12-29 01:25:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:25:46 - Bulunan email sayısı: 8
+2024-12-29 01:25:46 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:26:00 - Bulunan email sayısı: 8
+2024-12-29 01:26:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:26:14 - Bulunan email sayısı: 8
+2024-12-29 01:26:15 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:26:29 - Bulunan email sayısı: 8
+2024-12-29 01:26:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:26:43 - Bulunan email sayısı: 8
+2024-12-29 01:26:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:26:57 - Bulunan email sayısı: 8
+2024-12-29 01:26:57 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:27:11 - Bulunan email sayısı: 8
+2024-12-29 01:27:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:27:26 - Bulunan email sayısı: 8
+2024-12-29 01:27:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:27:40 - Bulunan email sayısı: 8
+2024-12-29 01:27:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:27:48 - Bulunan email sayısı: 8
+2024-12-29 01:27:49 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:28:00 - Bulunan email sayısı: 8
+2024-12-29 01:28:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:28:12 - Bulunan email sayısı: 8
+2024-12-29 01:28:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 01:28:26 - Bulunan email sayısı: 8
+2024-12-29 01:28:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:09:53 - Bulunan email sayısı: 8
+2024-12-29 13:09:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:10:11 - Bulunan email sayısı: 8
+2024-12-29 13:10:11 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:10:43 - Bulunan email sayısı: 8
+2024-12-29 13:10:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:11:02 - Bulunan email sayısı: 8
+2024-12-29 13:11:02 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:11:16 - Bulunan email sayısı: 8
+2024-12-29 13:11:16 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:11:30 - Bulunan email sayısı: 8
+2024-12-29 13:11:30 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:11:44 - Bulunan email sayısı: 8
+2024-12-29 13:11:45 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:11:59 - Bulunan email sayısı: 8
+2024-12-29 13:11:59 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:12:13 - Bulunan email sayısı: 8
+2024-12-29 13:12:13 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:12:27 - Bulunan email sayısı: 8
+2024-12-29 13:12:27 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:12:41 - Bulunan email sayısı: 8
+2024-12-29 13:12:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:12:55 - Bulunan email sayısı: 8
+2024-12-29 13:12:56 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:13:10 - Bulunan email sayısı: 8
+2024-12-29 13:13:10 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:13:26 - Bulunan email sayısı: 8
+2024-12-29 13:13:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:23:49 - Bulunan email sayısı: 8
+2024-12-29 13:23:49 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:24:05 - Bulunan email sayısı: 8
+2024-12-29 13:24:05 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:24:17 - Bulunan email sayısı: 8
+2024-12-29 13:24:17 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:24:31 - Bulunan email sayısı: 8
+2024-12-29 13:24:31 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:24:45 - Bulunan email sayısı: 8
+2024-12-29 13:24:45 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:24:59 - Bulunan email sayısı: 9
+2024-12-29 13:25:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:25:14 - Bulunan email sayısı: 9
+2024-12-29 13:25:14 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:25:28 - Bulunan email sayısı: 9
+2024-12-29 13:25:29 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:25:43 - Bulunan email sayısı: 9
+2024-12-29 13:25:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:25:57 - Bulunan email sayısı: 9
+2024-12-29 13:25:57 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:26:11 - Bulunan email sayısı: 9
+2024-12-29 13:26:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:26:25 - Bulunan email sayısı: 9
+2024-12-29 13:26:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:26:40 - Bulunan email sayısı: 9
+2024-12-29 13:26:40 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:26:54 - Bulunan email sayısı: 9
+2024-12-29 13:26:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-29 13:27:08 - Bulunan email sayısı: 9
+2024-12-30 06:15:50 - Bulunan email sayısı: 5
+2024-12-30 06:15:50 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:16:04 - Bulunan email sayısı: 5
+2024-12-30 06:16:04 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:16:18 - Bulunan email sayısı: 5
+2024-12-30 06:16:19 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:16:33 - Bulunan email sayısı: 5
+2024-12-30 06:16:33 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:16:47 - Bulunan email sayısı: 5
+2024-12-30 06:16:47 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:17:01 - Bulunan email sayısı: 5
+2024-12-30 06:17:02 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:17:15 - Bulunan email sayısı: 5
+2024-12-30 06:17:16 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:17:30 - Bulunan email sayısı: 5
+2024-12-30 06:17:30 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:17:44 - Bulunan email sayısı: 5
+2024-12-30 06:17:44 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:17:58 - Bulunan email sayısı: 5
+2024-12-30 06:17:59 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:18:12 - Bulunan email sayısı: 5
+2024-12-30 06:18:13 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:18:25 - Bulunan email sayısı: 5
+2024-12-30 06:18:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:18:37 - Bulunan email sayısı: 5
+2024-12-30 06:18:37 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:18:51 - Bulunan email sayısı: 5
+2024-12-30 06:18:52 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:19:06 - Bulunan email sayısı: 5
+2024-12-30 06:19:06 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:19:17 - Bulunan email sayısı: 5
+2024-12-30 06:19:17 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:19:31 - Bulunan email sayısı: 5
+2024-12-30 06:19:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:19:46 - Bulunan email sayısı: 5
+2024-12-30 06:19:46 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:20:00 - Bulunan email sayısı: 5
+2024-12-30 06:20:00 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:20:16 - Bulunan email sayısı: 5
+2024-12-30 06:20:16 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:20:30 - Bulunan email sayısı: 5
+2024-12-30 06:20:30 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:20:42 - Bulunan email sayısı: 5
+2024-12-30 06:20:42 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:21:12 - Bulunan email sayısı: 5
+2024-12-30 06:21:12 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:21:26 - Bulunan email sayısı: 5
+2024-12-30 06:21:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:21:40 - Bulunan email sayısı: 5
+2024-12-30 06:21:41 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:21:52 - Bulunan email sayısı: 5
+2024-12-30 06:21:52 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:22:06 - Bulunan email sayısı: 5
+2024-12-30 06:22:06 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:22:20 - Bulunan email sayısı: 5
+2024-12-30 06:22:20 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:22:34 - Bulunan email sayısı: 5
+2024-12-30 06:22:35 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:22:48 - Bulunan email sayısı: 5
+2024-12-30 06:22:49 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:23:03 - Bulunan email sayısı: 5
+2024-12-30 06:23:03 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:23:14 - Bulunan email sayısı: 5
+2024-12-30 06:23:14 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:23:25 - Bulunan email sayısı: 5
+2024-12-30 06:23:26 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 06:23:40 - Bulunan email sayısı: 5
+2024-12-30 06:23:40 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:07 - Bulunan email sayısı: 7
+2024-12-30 21:29:08 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:08 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:19 - Bulunan email sayısı: 7
+2024-12-30 21:29:19 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:20 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:43 - Bulunan email sayısı: 7
+2024-12-30 21:29:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:44 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:58 - Bulunan email sayısı: 7
+2024-12-30 21:29:58 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:29:59 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:13 - Bulunan email sayısı: 7
+2024-12-30 21:30:13 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:13 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:27 - Bulunan email sayısı: 7
+2024-12-30 21:30:27 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:28 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:42 - Bulunan email sayısı: 7
+2024-12-30 21:30:43 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:30:54 - Bulunan email sayısı: 7
+2024-12-30 21:30:54 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:31:08 - Bulunan email sayısı: 7
+2024-12-30 21:31:08 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:31:22 - Bulunan email sayısı: 7
+2024-12-30 21:31:23 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:31:35 - Bulunan email sayısı: 7
+2024-12-30 21:31:35 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:31:49 - Bulunan email sayısı: 7
+2024-12-30 21:31:50 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:32:03 - Bulunan email sayısı: 7
+2024-12-30 21:32:04 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:32:18 - Bulunan email sayısı: 7
+2024-12-30 21:32:18 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:32:32 - Bulunan email sayısı: 7
+2024-12-30 21:32:32 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:32:43 - Bulunan email sayısı: 7
+2024-12-30 21:32:44 - Veritabanı hatası: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`health_tourism`.`support_responses`, CONSTRAINT `support_responses_ibfk_1` FOREIGN KEY (`ticket_id`) REFERENCES `support_tickets` (`id`))
+2024-12-30 21:32:58 - Bulunan email sayısı: 7
+2024-12-30 21:33:09 - Bulunan email sayısı: 7
+2024-12-30 21:33:23 - Bulunan email sayısı: 7
+2024-12-30 21:33:37 - Bulunan email sayısı: 7
+2024-12-30 21:33:51 - Bulunan email sayısı: 7
+2024-12-30 21:34:05 - Bulunan email sayısı: 7
+2024-12-30 21:34:19 - Bulunan email sayısı: 7
+2024-12-30 21:34:33 - Bulunan email sayısı: 7
+2024-12-30 21:34:47 - Bulunan email sayısı: 7
+2024-12-30 21:34:59 - Bulunan email sayısı: 7
+2024-12-30 21:35:13 - Bulunan email sayısı: 7
+2024-12-30 21:35:24 - Bulunan email sayısı: 7
+2024-12-30 21:35:38 - Bulunan email sayısı: 7
+2024-12-30 21:35:52 - Bulunan email sayısı: 7
+2024-12-30 21:36:05 - Bulunan email sayısı: 7
+2024-12-30 21:36:19 - Bulunan email sayısı: 7
+2024-12-30 21:36:34 - Bulunan email sayısı: 7
+2024-12-30 21:36:48 - Bulunan email sayısı: 8
+2024-12-30 21:37:03 - Bulunan email sayısı: 8
+2024-12-30 21:37:17 - Bulunan email sayısı: 8
+2024-12-30 21:37:31 - Bulunan email sayısı: 8
+2024-12-30 21:37:45 - Bulunan email sayısı: 8
+2024-12-30 21:37:59 - Bulunan email sayısı: 8
+2024-12-30 21:38:13 - Bulunan email sayısı: 8
+2024-12-30 21:38:27 - Bulunan email sayısı: 8
+2024-12-30 21:38:41 - Bulunan email sayısı: 8
+2024-12-30 21:40:43 - Bulunan email sayısı: 8
+2024-12-30 21:40:58 - Bulunan email sayısı: 8
+2024-12-30 21:41:12 - Bulunan email sayısı: 8
+2024-12-30 21:41:26 - Bulunan email sayısı: 8
+2024-12-30 21:41:40 - Bulunan email sayısı: 8
+2024-12-30 21:41:54 - Bulunan email sayısı: 8
+2024-12-30 21:42:08 - Bulunan email sayısı: 8
+2024-12-30 21:42:22 - Bulunan email sayısı: 8
+2024-12-30 21:42:35 - Bulunan email sayısı: 8
+2024-12-30 21:42:47 - Bulunan email sayısı: 8
+2024-12-30 21:42:57 - Bulunan email sayısı: 8
+2024-12-30 21:43:12 - Bulunan email sayısı: 8
+2024-12-30 21:43:25 - Bulunan email sayısı: 8
+2024-12-30 21:43:39 - Bulunan email sayısı: 8
+2024-12-30 21:43:53 - Bulunan email sayısı: 8
+2025-01-05 14:26:31 - Bulunan email sayısı: 11
+2025-01-05 14:27:53 - Bulunan email sayısı: 1
+2025-01-05 14:28:07 - Bulunan email sayısı: 1
+2025-01-05 14:28:20 - Bulunan email sayısı: 1
+2025-01-05 14:28:34 - Bulunan email sayısı: 1
+2025-01-05 14:28:48 - Bulunan email sayısı: 1
+2025-01-05 14:29:01 - Bulunan email sayısı: 1
+2025-01-05 14:29:15 - Bulunan email sayısı: 1
+2025-01-05 14:38:00 - Bulunan email sayısı: 1
+2025-01-05 14:38:28 - Bulunan email sayısı: 1
+2025-01-05 14:39:32 - Bulunan email sayısı: 1
+2025-01-05 14:40:19 - Bulunan email sayısı: 1
+2025-01-05 14:41:53 - Bulunan email sayısı: 1
+2025-01-05 14:54:53 - Bulunan email sayısı: 1
+2025-01-05 14:55:04 - Bulunan email sayısı: 1
+2025-01-05 14:55:19 - Bulunan email sayısı: 1
+2025-01-05 14:55:33 - Bulunan email sayısı: 1
+2025-01-05 14:55:46 - Bulunan email sayısı: 1
+2025-01-05 14:56:00 - Bulunan email sayısı: 1
+2025-01-05 14:56:14 - Bulunan email sayısı: 1
+2025-01-05 14:56:27 - Bulunan email sayısı: 1
+2025-01-05 14:56:41 - Bulunan email sayısı: 1
+2025-01-05 14:56:55 - Bulunan email sayısı: 1
+2025-01-05 14:57:09 - Bulunan email sayısı: 1
+2025-01-05 14:57:22 - Bulunan email sayısı: 1
+2025-01-05 14:57:36 - Bulunan email sayısı: 1
+2025-01-05 15:01:35 - Bulunan email sayısı: 1
+2025-01-05 15:18:51 - Bulunan email sayısı: 2
+2025-01-05 15:19:05 - Bulunan email sayısı: 2
+2025-01-05 15:19:57 - Bulunan email sayısı: 2
+2025-01-05 15:20:31 - Bulunan email sayısı: 2
+2025-01-05 15:26:49 - Bulunan email sayısı: 2
+2025-01-05 15:27:00 - Bulunan email sayısı: 2
+2025-01-05 15:27:14 - Bulunan email sayısı: 2
+2025-01-05 15:27:25 - Bulunan email sayısı: 2
+2025-01-05 15:27:37 - Bulunan email sayısı: 2
+2025-01-05 15:27:48 - Bulunan email sayısı: 2
+2025-01-05 15:28:06 - Bulunan email sayısı: 2
+2025-01-05 15:28:20 - Bulunan email sayısı: 2
+2025-01-05 15:28:34 - Bulunan email sayısı: 2
+2025-01-05 15:28:47 - Bulunan email sayısı: 2
+2025-01-05 15:29:01 - Bulunan email sayısı: 2
+2025-01-05 15:29:15 - Bulunan email sayısı: 2
+2025-01-05 15:29:29 - Bulunan email sayısı: 2
+2025-01-05 15:32:02 - Bulunan email sayısı: 2
+2025-01-05 15:41:32 - Bulunan email sayısı: 3
+2025-01-05 16:39:36 - Bulunan email sayısı: 5
+2025-01-05 16:39:48 - Bulunan email sayısı: 5
+2025-01-05 16:40:01 - Bulunan email sayısı: 5
+2025-01-05 17:02:54 - Bulunan email sayısı: 5
+2025-01-05 17:03:08 - Bulunan email sayısı: 5
+2025-01-05 17:03:22 - Bulunan email sayısı: 5
+2025-01-05 17:03:36 - Bulunan email sayısı: 5
+2025-01-05 17:03:49 - Bulunan email sayısı: 5
+2025-01-05 17:04:00 - Bulunan email sayısı: 5
+2025-01-05 17:04:15 - Bulunan email sayısı: 5
+2025-01-05 17:04:28 - Bulunan email sayısı: 5
+2025-01-05 17:04:42 - Bulunan email sayısı: 5
+2025-01-05 17:04:56 - Bulunan email sayısı: 5
+2025-01-05 17:05:10 - Bulunan email sayısı: 5
+2025-01-05 17:05:21 - Bulunan email sayısı: 5
+2025-01-05 17:05:35 - Bulunan email sayısı: 5
+2025-01-05 17:05:49 - Bulunan email sayısı: 5
+2025-01-05 17:06:03 - Bulunan email sayısı: 5
+2025-01-05 17:06:16 - Bulunan email sayısı: 5
+2025-01-05 17:06:30 - Bulunan email sayısı: 5
+2025-01-05 17:06:44 - Bulunan email sayısı: 5
+2025-01-05 17:06:57 - Bulunan email sayısı: 5
+2025-01-05 17:07:11 - Bulunan email sayısı: 5
+2025-01-05 17:07:25 - Bulunan email sayısı: 5
+2025-01-05 17:07:39 - Bulunan email sayısı: 5

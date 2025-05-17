@@ -1,0 +1,230 @@
+/* Badem CSS Stilleri */
+#badem-world {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+}
+
+/* Kedi burnu ve bıyıkları */
+.cat-nose {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    cursor: pointer;
+    z-index: 1000;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+    padding: 10px;
+}
+
+.header-wrapper:hover .cat-nose {
+    opacity: 0;
+}
+
+.cat-nose:hover {
+    opacity: 1 !important;
+    filter: drop-shadow(0 6px 12px rgba(79,70,229,0.2));
+}
+
+.whiskers {
+    position: relative;
+    width: 120px;
+    height: 60px;
+    background: url('assets/images/hehe/mustache.png') no-repeat center;
+    background-size: contain;
+    transform-origin: center;
+    transition: all 0.3s ease;
+}
+
+.cat-nose:hover .whiskers {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+
+/* Matter.js ve Badem JavaScript Kodları */
+document.addEventListener('DOMContentLoaded', function() {
+    // Matter.js modüllerini al
+    const Engine = Matter.Engine,
+          Render = Matter.Render,
+          World = Matter.World,
+          Bodies = Matter.Bodies,
+          Body = Matter.Body,
+          Mouse = Matter.Mouse,
+          Composite = Matter.Composite;
+
+    // Motor ve dünya oluştur
+    const engine = Engine.create();
+    engine.gravity.y = 1;
+    engine.gravity.scale = 0.001;
+
+    const render = Render.create({
+        element: document.body,
+        engine: engine,
+        canvas: document.createElement('canvas'),
+        options: {
+            width: window.innerWidth,
+            height: window.innerHeight,
+            wireframes: false,
+            background: 'transparent',
+            pixelRatio: window.devicePixelRatio
+        }
+    });
+
+    render.canvas.id = 'badem-world';
+    render.canvas.style.position = 'fixed';
+    render.canvas.style.top = '0';
+    render.canvas.style.left = '0';
+    render.canvas.style.width = '100%';
+    render.canvas.style.height = '100%';
+    render.canvas.style.pointerEvents = 'none';
+    render.canvas.style.zIndex = '9999';
+
+    // Zemin ve duvarlar
+    const ground = Bodies.rectangle(
+        window.innerWidth / 2,
+        window.innerHeight + 30,
+        window.innerWidth * 2,
+        60,
+        { 
+            isStatic: true,
+            friction: 0.5,
+            render: { visible: false }
+        }
+    );
+
+    const leftWall = Bodies.rectangle(
+        -30,
+        window.innerHeight / 2,
+        60,
+        window.innerHeight * 2,
+        {
+            isStatic: true,
+            friction: 0.5,
+            render: { visible: false }
+        }
+    );
+
+    const rightWall = Bodies.rectangle(
+        window.innerWidth + 30,
+        window.innerHeight / 2,
+        60,
+        window.innerHeight * 2,
+        {
+            isStatic: true,
+            friction: 0.5,
+            render: { visible: false }
+        }
+    );
+
+    World.add(engine.world, [ground, leftWall, rightWall]);
+
+    // Kedi burnu ve badem oluşturma
+    const catNose = document.createElement('div');
+    catNose.className = 'cat-nose';
+    catNose.innerHTML = `<div class="whiskers"></div>`;
+
+    const headerWrapper = document.querySelector('.header-wrapper');
+    headerWrapper.appendChild(catNose);
+
+    // Ses efekti
+    const meowSound = new Audio('assets/images/hehe/miyav.mp3');
+
+    let isAnimating = false;
+    let bademInterval;
+    const maxBademCount = 10000;
+    let bademCount = 0;
+
+    function createBadem() {
+        if (bademCount >= maxBademCount) return;
+
+        const noseRect = catNose.getBoundingClientRect();
+        const badem = Bodies.circle(
+            noseRect.left + noseRect.width / 2,
+            noseRect.top + noseRect.height / 2,
+            15,
+            {
+                restitution: 0.6,
+                friction: 0.1,
+                density: 0.001,
+                render: {
+                    sprite: {
+                        texture: 'assets/images/hehe/badem.png',
+                        xScale: 0.3,
+                        yScale: 0.3
+                    }
+                }
+            }
+        );
+
+        // Başlangıç hızı ver
+        Body.setVelocity(badem, {
+            x: (Math.random() - 0.5) * 5,
+            y: Math.random() * 2
+        });
+
+        World.add(engine.world, badem);
+        bademCount++;
+    }
+
+    // Mouse takibi
+    let mouseX = 0;
+    let mouseY = 0;
+    document.addEventListener('mousemove', (e) => {
+        mouseX = e.clientX;
+        mouseY = e.clientY;
+        
+        const bodies = Composite.allBodies(engine.world);
+        bodies.forEach(body => {
+            if (body.isStatic) return;
+            
+            const dx = body.position.x - mouseX;
+            const dy = body.position.y - mouseY;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+            
+            if (distance < 150) {
+                const force = 0.002;
+                Body.applyForce(body, body.position, {
+                    x: (dx / distance) * force * (150 - distance),
+                    y: (dy / distance) * force * (150 - distance)
+                });
+            }
+        });
+    });
+
+    catNose.addEventListener('click', function() {
+        if (!isAnimating) {
+            meowSound.play();
+            isAnimating = true;
+            bademInterval = setInterval(createBadem, 100);
+        } else {
+            isAnimating = false;
+            clearInterval(bademInterval);
+        }
+    });
+
+    // Pencere boyutu değiştiğinde duvarları güncelle
+    window.addEventListener('resize', function() {
+        render.canvas.width = window.innerWidth;
+        render.canvas.height = window.innerHeight;
+        
+        Body.setPosition(ground, {
+            x: window.innerWidth / 2,
+            y: window.innerHeight
+        });
+        
+        Body.setPosition(rightWall, {
+            x: window.innerWidth,
+            y: window.innerHeight / 2
+        });
+    });
+
+    // Motoru ve render'ı başlat
+    Engine.run(engine);
+    Render.run(render);
+});
